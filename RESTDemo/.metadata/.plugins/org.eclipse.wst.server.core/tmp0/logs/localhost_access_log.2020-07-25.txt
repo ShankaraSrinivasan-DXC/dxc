@@ -1,0 +1,9 @@
+127.0.0.1 - - [25/Jul/2020:12:16:51 +0530] "GET / HTTP/1.1" 404 1074
+0:0:0:0:0:0:0:1 - - [25/Jul/2020:12:16:53 +0530] "GET /RestDemo/WEB-INF/classes/com/dxc/RestDemo/MyResource.java HTTP/1.1" 404 1047
+0:0:0:0:0:0:0:1 - - [25/Jul/2020:12:20:03 +0530] "GET /RestDemo/WEB-INF/classes/com/dxc/RestDemo/MyResource.java HTTP/1.1" 404 1047
+127.0.0.1 - - [25/Jul/2020:15:50:34 +0530] "GET / HTTP/1.1" 404 1074
+127.0.0.1 - - [25/Jul/2020:15:50:47 +0530] "POST /clientDemo/services/AdminService HTTP/1.0" 200 291
+127.0.0.1 - - [25/Jul/2020:15:50:47 +0530] "POST /clientDemo/services/AdminService HTTP/1.0" 200 4075
+127.0.0.1 - - [25/Jul/2020:16:08:28 +0530] "GET / HTTP/1.1" 404 1074
+127.0.0.1 - - [25/Jul/2020:16:08:37 +0530] "POST /clientDemo/services/Hello HTTP/1.0" 200 370
+0:0:0:0:0:0:0:1 - - [25/Jul/2020:16:08:37 +0530] "GET /RestDemo/index.jsp HTTP/1.1" 200 266

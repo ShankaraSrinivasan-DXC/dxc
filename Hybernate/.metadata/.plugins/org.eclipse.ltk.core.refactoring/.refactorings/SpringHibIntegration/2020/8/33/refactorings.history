@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;application-context.xml&apos; to &apos;SpringHibernateEx/resources&apos;&#x0D;&#x0A;- Original project: &apos;SpringHibIntegration&apos;&#x0D;&#x0A;- Destination element: &apos;SpringHibernateEx/resources&apos;&#x0D;&#x0A;- Original element: &apos;application-context.xml&apos;" description="Copy file" destination="=SpringHibernateEx/resources" element1="resources/application-context.xml" files="1" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1597119875919" units="0" version="1.0"/>
+</session>

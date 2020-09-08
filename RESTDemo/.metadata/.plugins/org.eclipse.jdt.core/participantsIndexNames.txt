@@ -1,0 +1,27 @@
+INDEX VERSION 1.131
+C:\Users\Lenovo\Desktop\RESTDemo\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3420911543.index
+\RestDemo\src\main\java
+C:\Users\Lenovo\Desktop\RESTDemo\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\174942776.index
+\WebserviceClient\src\main\java
+C:\Users\Lenovo\Desktop\RESTDemo\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1846010951.index
+\CalcClient\src\main\java
+C:\Users\Lenovo\Desktop\RESTDemo\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1352191481.index
+\BankClient\src\main\java
+C:\Users\Lenovo\Desktop\RESTDemo\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\162909501.index
+\BankServiceDemo\src\main\java
+C:\Users\Lenovo\Desktop\RESTDemo\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2151694715.index
+\RestDemo\src\main\java
+C:\Users\Lenovo\Desktop\RESTDemo\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1723189900.index
+\clientDemo\src\main\java
+C:\Users\Lenovo\Desktop\RESTDemo\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\771956765.index
+\HelloWorldService\src\main\java
+C:\Users\Lenovo\Desktop\RESTDemo\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2673120714.index
+\WebserviceDemo\src\main\java
+C:\Users\Lenovo\Desktop\RESTDemo\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3450441277.index
+\BlankService
+C:\Users\Lenovo\Desktop\RESTDemo\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\4145587966.index
+\BankClientDemo\src\main\java
+C:\Users\Lenovo\Desktop\RESTDemo\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3152162947.index
+\HelloWorldClient\src\main\java
+C:\Users\Lenovo\Desktop\RESTDemo\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3001008992.index
+\CalcService\src\main\java

@@ -1,0 +1,2 @@
+INDEX VERSION 1.4+C:\Users\Lenovo\Desktop\lms\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+517979756.index
